@@ -5,5 +5,5 @@
 
 ### STACKS
 
-<img src="https://img.shields.io/badge/JAVA-#EC1C24?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/java Spring#EC1C24?style=for-the-badge&logo=Spring&logoColor=white">
 
