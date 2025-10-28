@@ -1,7 +1,5 @@
 <!-- Header: 따뜻한 코랄/살구 그라데이션 -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ffd1b3,50:ffb4a2,100:ff8fa3&text=LIMJ%20The%20Rock!&fontColor=4b2b2b&fontSize=48&fontAlignY=40&desc=Full-stack%20Developer%20%7C%20DID%20%26%20Fintech&descAlignY=65&reversal=false&animation=fadeIn"/>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=LIMJ%20The%20Rock!&reversal=true&fontColor=ff006e&textBg=true)
 
 <!-- MOTTO (그대로 유지) -->
 ### 바꿀 수 없는 것은 잊자. 오직 바꿀 수 있는 것에 집중.
