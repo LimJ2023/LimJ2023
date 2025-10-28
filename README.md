@@ -63,8 +63,7 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -74,26 +73,23 @@
 <div style="display:flex; flex-wrap:wrap; gap:6px;">
   <img src="https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white"/>
   <img src="https://img.shields.io/badge/DID%2FVC-0A0A0A?style=for-the-badge&logo=w3c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XRPL-25A768?style=for-the-badge&logo=ripple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Interledger%20(ILP)-4C6EF5?style=for-the-badge&logo=interledger&logoColor=white"/>
 </div>
 
 ### 📦 Messaging & Testing
 <div style="display:flex; flex-wrap:wrap; gap:6px;">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 </div>
 
 <br/>
 
 ## 📚 Currently Learning
 <div style="display:flex; flex-wrap:wrap; gap:6px;">
-  <img src="https://img.shields.io/badge/ELB%20%26%20CloudFront-FFB703?style=for-the-badge&logo=amazonaws&logoColor=222"/>
-  <img src="https://img.shields.io/badge/Route%2053-2E86C1?style=for-the-badge&logo=amazonroute53&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon%20SES-FF6F61?style=for-the-badge&logo=amazonses&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Avalanche-E84142?style=for-the-badge&logo=avalanche&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XRPL-25A768?style=for-the-badge&logo=ripple&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 </div>
 
 <!-- Footer wave -->
