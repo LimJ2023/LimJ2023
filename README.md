@@ -9,7 +9,7 @@
 <!-- About -->
 <p align="center">
   따뜻하지만 단단하게. 사용자 가치에 집착하는 풀스택 개발자입니다. <br/>
-  Web3, 신원인증(DID/VC)과 DevOps 강점이 있어요.
+  Web3, DID와 DevOps 강점이 있습니다.
 </p>
 
 <!-- Section divider -->
